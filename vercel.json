@@ -1,0 +1,2 @@
+{"rewrites":[{"source":"/((?!K_Yashvanthakumar_Resume\\.pdf|assets/).*)","destination":"/index.html"}],
+"headers":[{"source":"/K_Yashvanthakumar_Resume.pdf","headers":[{"key":"Content-Type","value":"application/pdf"},{"key":"Cache-Control","value":"public, max-age=0, must-revalidate"}]}]}
